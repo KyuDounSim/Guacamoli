@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Guacamoli</string>
+    <string name="facebook_app_id">798966053631412</string>
+    <string name="fb_login_protocol_scheme">fb798966053631412</string>
 </resources>
